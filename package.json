@@ -1,5 +1,5 @@
 {
-  "name": "@telegram-apps/analytics",
+  "name": "telegram-apps-analytics",
   "version": "1.1.4",
   "main": "dist/index.js",
   "type": "module",

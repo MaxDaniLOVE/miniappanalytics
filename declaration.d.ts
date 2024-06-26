@@ -271,5 +271,6 @@ declare global {
         telegramAnalytics: {
             init: ({ token: string, appName: string }) => void;
         };
+        getTMASessionId: () => string;
     }
 }

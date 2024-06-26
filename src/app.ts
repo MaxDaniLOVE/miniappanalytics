@@ -61,4 +61,8 @@ export class App {
     public getAppName() {
         return this.appName;
     }
+
+    public getSessionId() {
+        return this.sessionController.getSessionId();
+    }
 }
